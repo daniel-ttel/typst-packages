@@ -6,6 +6,8 @@ authors = ["Daniel Omen Lobos Aguayo"]
 license = "MIT"
 description = "An example package."
 
+categories = ["notes", "paper"]
+
 [template]
 path = "template"
 entrypoint = "main.typ"
