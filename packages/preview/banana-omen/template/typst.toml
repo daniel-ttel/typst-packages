@@ -1,0 +1,7 @@
+[package]
+name = "banana-omen"
+version = "0.0.1"
+entrypoint = "lib.typ"
+authors = ["Daniel Omen Lobos Aguayo"]
+license = "MIT"
+description = "An example package."
